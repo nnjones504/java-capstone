@@ -4,8 +4,8 @@ My java capstone is a continuation of what I made for my foundations capstone. .
 
 # MVP
 Users can:
-Register for a new account
-Login to account
-Add item to cart
-Remove item from cart
-Submit order
+- Register for a new account
+- Login to account
+- Add item to cart
+- Remove item from cart
+- Submit order
